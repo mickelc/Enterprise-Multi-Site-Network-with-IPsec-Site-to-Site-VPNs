@@ -17,5 +17,5 @@ Inside interface on the Firewall at HQ being configured with an IP (same done on
 
 
 
-Outside Interface on the Layer 3 switch being configured with an IP (same done on the other 2 switches
+Outside Interface on the Layer 3 switch being configured with an IP (same done on the other 2 switches)
 <img width="902" height="424" alt="image" src="https://github.com/user-attachments/assets/0ac1f573-f3da-47e0-a613-1c0b40174e47" />
