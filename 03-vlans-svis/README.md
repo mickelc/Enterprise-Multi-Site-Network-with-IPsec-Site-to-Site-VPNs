@@ -27,11 +27,23 @@ Setting trunk mode on the layer 3 switch to the access switch in br-2
 <img width="532" height="165" alt="image" src="https://github.com/user-attachments/assets/2c6df8d2-8481-4308-b247-ce186f198cb6" />
 
 
-Creating an SVI for vlan 10 on Br-2
-
-
 
 Making only the relevant vlans allowed on the trunk port for each site
 
 <img width="564" height="306" alt="image" src="https://github.com/user-attachments/assets/8e2ed938-d8d8-46c1-b2eb-cf51975db899" />
+
+
+Creating an SVIs on HQ
+
+<img width="833" height="573" alt="image" src="https://github.com/user-attachments/assets/91afe8e6-9e12-473e-877a-2540b1956696" />
+
+show int brief table on HQ after completing SVIs
+<img width="670" height="206" alt="image" src="https://github.com/user-attachments/assets/240a4453-86f9-4934-8f30-98a86a01928f" />
+
+
+
+
+
+
+
 
