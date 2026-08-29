@@ -20,3 +20,8 @@ VLAN table on br-2
 
 
 <img width="651" height="200" alt="image" src="https://github.com/user-attachments/assets/1d06cb5a-79e2-42ad-9693-4eda57b56ebf" />
+
+
+Setting trunk mode on the layer 3 switch to the access switch in br-2
+
+<img width="532" height="165" alt="image" src="https://github.com/user-attachments/assets/2c6df8d2-8481-4308-b247-ce186f198cb6" />
