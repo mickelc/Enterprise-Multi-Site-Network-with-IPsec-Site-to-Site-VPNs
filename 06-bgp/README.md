@@ -10,3 +10,12 @@ This is how BGP has configured on the HQ router
 
 
 This step was repeated for the other two sites
+
+
+<img width="536" height="220" alt="image" src="https://github.com/user-attachments/assets/a584d457-036f-4f42-aac4-2c4e93a86559" />
+
+
+
+
+<img width="546" height="278" alt="image" src="https://github.com/user-attachments/assets/3a493db7-3a93-4eb1-9af5-60529cf21478" />
+
