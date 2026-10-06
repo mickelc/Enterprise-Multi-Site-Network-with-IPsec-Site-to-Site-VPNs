@@ -29,4 +29,4 @@ Also the WAN IPs were added to BGP as well
 Verification of BGP routes from ISP router
 
 
-<img width="738" height="576" alt="image" src="https://github.com/user-attachments/assets/2afd8b8a-c574-4a7c-8123-c762445b54a2" />
+<img width="648" height="648" alt="image" src="https://github.com/user-attachments/assets/0682d163-01b8-4c40-8c39-0d71baac6efb" />
