@@ -23,4 +23,5 @@ Proof from the PC
 
 
 <img width="472" height="195" alt="image" src="https://github.com/user-attachments/assets/d2624159-036b-4ceb-86c5-ad62ad2d8d77" />
+
 The above screenshot was taken from User 1 who is now able to reach the router connect to their site
