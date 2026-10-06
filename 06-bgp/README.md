@@ -15,16 +15,15 @@ This step was repeated for the other two sites
 <img width="536" height="220" alt="image" src="https://github.com/user-attachments/assets/a584d457-036f-4f42-aac4-2c4e93a86559" />
 
 
+
+<img width="531" height="164" alt="image" src="https://github.com/user-attachments/assets/2f2a0dff-dbef-4ce2-85e6-aa97a9927b21" />
+
 Also the WAN IPs were added to BGP as well
 
 
 
 <img width="512" height="106" alt="image" src="https://github.com/user-attachments/assets/0097bb22-d31a-421c-bf49-351890898935" />
 
-
-
-
-<img width="531" height="164" alt="image" src="https://github.com/user-attachments/assets/2f2a0dff-dbef-4ce2-85e6-aa97a9927b21" />
 
 
 Verification of BGP routes from ISP router
