@@ -18,3 +18,9 @@ This step was repeated for the other two sites
 
 
 <img width="531" height="164" alt="image" src="https://github.com/user-attachments/assets/2f2a0dff-dbef-4ce2-85e6-aa97a9927b21" />
+
+
+Verification of BGP routes from ISP router
+
+
+<img width="738" height="576" alt="image" src="https://github.com/user-attachments/assets/2afd8b8a-c574-4a7c-8123-c762445b54a2" />
