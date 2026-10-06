@@ -17,5 +17,4 @@ This step was repeated for the other two sites
 
 
 
-<img width="546" height="278" alt="image" src="https://github.com/user-attachments/assets/3a493db7-3a93-4eb1-9af5-60529cf21478" />
-
+<img width="531" height="164" alt="image" src="https://github.com/user-attachments/assets/2f2a0dff-dbef-4ce2-85e6-aa97a9927b21" />
