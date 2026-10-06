@@ -6,7 +6,7 @@ Done on the core switch
 
 Next set vlan interfaces to passive except the one going to the ASA firewall
 
-<img width="428" height="50" alt="image" src="https://github.com/user-attachments/assets/7189430b-24d4-469e-ba29-ba8396e598d9" />
+<img width="434" height="43" alt="image" src="https://github.com/user-attachments/assets/52d39e9e-db3e-45da-9bc3-339e056ac7bd" />
 
 
 Done on the ASA firewall
