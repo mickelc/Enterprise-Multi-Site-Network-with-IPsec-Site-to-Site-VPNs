@@ -7,7 +7,8 @@ Created a default static route from each branch's firewall to point to the conne
 Created a default route from the router to the vlans in each site and also advertised this default route into the OSPF area that was configured for each site
 
 
-<img width="661" height="398" alt="image" src="https://github.com/user-attachments/assets/1aed739c-b4eb-492c-8985-a88a7fa4d546" />
+
+<img width="640" height="403" alt="image" src="https://github.com/user-attachments/assets/25279bfd-1bd9-47ed-b170-bcecf9cf1b49" />
 
 
 <img width="451" height="60" alt="image" src="https://github.com/user-attachments/assets/6b00d054-6014-4378-a806-bbcebd82cf92" />
