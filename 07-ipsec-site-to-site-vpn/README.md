@@ -65,7 +65,14 @@ Pings from USER 3 in HQ to USER 5 in Branch 1 are successful
 <br>
 
 ## Now as you can see from the output below the pkts encaps and decaps counters are going up, showing that the VPN tunnel is working 
-
 <br>
+
 <img width="551" height="313" alt="image" src="https://github.com/user-attachments/assets/6cce42df-4920-4186-be54-2c87d9a57583" />
 
+<br>
+
+To create the IPsec connection between HQ and BR-2 the above steps where repeated but the respective changes were made
+<br>
+<br>
+All commands below:
+<br>
