@@ -55,3 +55,17 @@
 
 ## Then finally the crypto map being created and applied to the WAN interface of BR1-R1
 <img width="776" height="403" alt="image" src="https://github.com/user-attachments/assets/280ce0b2-d76c-4da2-9824-e406c8444c6c" />
+
+<br>
+<br>
+Pings from USER 3 in HQ to USER 5 in Branch 1 are successful
+<br>
+<img width="479" height="293" alt="image" src="https://github.com/user-attachments/assets/9d149a2c-67e9-444e-b0d3-d7e24fd9f761" />
+<br>
+<br>
+
+## Now as you can see from the output below the pkts encaps and decaps counters are going up, showing that the VPN tunnel is working 
+
+<br>
+<img width="551" height="313" alt="image" src="https://github.com/user-attachments/assets/6cce42df-4920-4186-be54-2c87d9a57583" />
+
