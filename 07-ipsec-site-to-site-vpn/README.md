@@ -43,4 +43,13 @@
 <br>
 <img width="495" height="289" alt="image" src="https://github.com/user-attachments/assets/599e21db-b47a-4b91-a981-acab453d6e03" />
 
+<br>
+## Created a transform set on BR1-R1 router
+<img width="574" height="76" alt="image" src="https://github.com/user-attachments/assets/20b4cd3d-06be-4969-a2b0-45146b4a41bd" />
 
+## Interesting traffic ACL
+<br>
+<img width="609" height="57" alt="image" src="https://github.com/user-attachments/assets/e00584d3-50c8-44de-bb06-24e04ac63fea" />
+
+## Then finally the crypto map being created and applied to the WAN interface of BR1-R1
+<img width="776" height="403" alt="image" src="https://github.com/user-attachments/assets/280ce0b2-d76c-4da2-9824-e406c8444c6c" />
