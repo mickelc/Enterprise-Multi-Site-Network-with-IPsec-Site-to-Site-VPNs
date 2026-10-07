@@ -25,3 +25,19 @@ Proof from the PC
 <img width="472" height="195" alt="image" src="https://github.com/user-attachments/assets/d2624159-036b-4ceb-86c5-ad62ad2d8d77" />
 
 The above screenshot was taken from User 1 who is now able to reach the router connect to their site
+
+
+
+<br>
+<br>
+Now while testing the IPsec tunnel connection in Section 07, I had to enable pings from HQ-LAN to BR1-LAN on both firewalls in each branch
+Below is how it was done
+<img width="1118" height="193" alt="image" src="https://github.com/user-attachments/assets/a27ba2aa-c0d1-4b00-84aa-6d3a82c30dab" />
+<br>
+<img width="1066" height="137" alt="image" src="https://github.com/user-attachments/assets/fcfa303a-318b-4cbd-98ce-4218ae98a4ce" />
+
+<br>
+Now I can successfully ping USER 5 (10.3.10.2 for this test) from USER 3 
+<img width="471" height="268" alt="image" src="https://github.com/user-attachments/assets/05b4c30a-ae9c-4bdd-bb29-98c345429f11" />
+
+
