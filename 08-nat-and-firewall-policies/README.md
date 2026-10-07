@@ -38,6 +38,7 @@ Below is how it was done
 
 <br>
 Now I can successfully ping USER 5 (10.3.10.2 for this test) from USER 3 
+<br>
 <img width="471" height="268" alt="image" src="https://github.com/user-attachments/assets/05b4c30a-ae9c-4bdd-bb29-98c345429f11" />
 
 
