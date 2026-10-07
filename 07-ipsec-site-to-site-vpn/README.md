@@ -74,5 +74,8 @@ Pings from USER 3 in HQ to USER 5 in Branch 1 are successful
 To create the IPsec connection between HQ and BR-2 the above steps where repeated but the respective changes were made
 <br>
 <br>
-All commands below:
+Here is a look at the crypto map on HQ router after BR2's network was added
 <br>
+<img width="736" height="553" alt="image" src="https://github.com/user-attachments/assets/d76f445b-b0fa-493f-9c53-73225bcc2b3a" />
+
+
